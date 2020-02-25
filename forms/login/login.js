@@ -1,3 +1,4 @@
+/*
 
 let accountName = ""
 
@@ -12,7 +13,4 @@ btnSubmit.onclick=function(){
     inptPassword.value = ""
 }
 
-
-
-
-
+*/
