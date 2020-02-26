@@ -1,7 +1,7 @@
 {
   "!type": "Label_bs4",
   "appearance": "primary",
-  "backgroundColor": "white",
+  "backgroundColor": "pink",
   "borderRadius": "0",
   "bottom": "auto",
   "cached_js": "",
@@ -18,8 +18,8 @@
   "height": "auto",
   "hidden": "",
   "id": "overallLabel",
-  "labelStyle": "text",
-  "left": 68,
+  "labelStyle": "badge",
+  "left": 56,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 51,
+  "top": 3,
   "value": "MAKE YOUR OWN AD LIB! ",
   "width": "auto"
 }
