@@ -1,3 +1,5 @@
+/*
+
 let name = []
 let memberName = ""
 let members = ["Mary","Sam","Joey","Paul","Mike","Char","Jenny","Kennedy","Kaden","Kurt","Anne"]
@@ -54,7 +56,4 @@ submitnames.onclick=function(){
     }
 }
 
-
-
-
-
+*/
