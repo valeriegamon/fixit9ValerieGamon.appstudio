@@ -88,7 +88,7 @@
         "forms",
         "ABMadLibs",
         "Elements",
-        "adjectives2.json"
+        "adjective2.json"
       ]
     },
     {
@@ -107,6 +107,60 @@
         "ABMadLibs",
         "Elements",
         "submit.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ABMadLibs",
+        "Elements",
+        "adjective4.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ABMadLibs",
+        "Elements",
+        "adjective5.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ABMadLibs",
+        "Elements",
+        "verb2.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ABMadLibs",
+        "Elements",
+        "verb3.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ABMadLibs",
+        "Elements",
+        "verb4.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ABMadLibs",
+        "Elements",
+        "verb5.json"
       ]
     }
   ],
