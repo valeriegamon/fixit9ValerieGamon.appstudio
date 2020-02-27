@@ -102,7 +102,7 @@ submit.onclick=function(){
   fourthAdjective = adjective4.value
   fifthAdjective = adjective5.value
   
-  NSB.MsgBox(`${accountName}, HERE IS YOUR MAD LIB: \n A ${firstNoun} in Nebraska was arrested this morning after ${firstVerb + 'ing'} in front of a ${firstAdjective} ${secondNoun}. \n \n The perpetrator had a history of ${secondVerb + 'ing'}, but no one - not even her ${thirdNoun} - ever imagined she would ${thirdVerb} with a ${secondAdjective} ${fourthNoun}. Even her ${fifthNoun} was surprised, and said \n \n I always thought she was ${thirdAdjective}, but I never thought she would do something like this. \n \n Either way, we imagine that after witnessing her ${fourthVerb+ 'ing'} with a ${fourthAdjective} ${secondNoun}, there are probably a whole lot of ${fifthAdjective} ${firstNoun + 's'} that are going to need therapy.`)
+  NSB.MsgBox(`${accountName}, HERE IS YOUR MAD LIB: \n \n \n A ${firstNoun} in Nebraska was arrested this morning after ${firstVerb + 'ing'} in front of a ${firstAdjective} ${secondNoun}. \n \n The perpetrator had a history of ${secondVerb + 'ing'}, but no one - not even her ${thirdNoun} - ever imagined she would ${thirdVerb} with a ${secondAdjective} ${fourthNoun}. Even her ${fifthNoun} was surprised, and said \n \n I always thought she was ${thirdAdjective}, but I never thought she would do something like this. \n \n Either way, we imagine that after witnessing her ${fourthVerb+ 'ing'} with a ${fourthAdjective} ${secondNoun}, there are probably a whole lot of ${fifthAdjective} ${firstNoun + 's'} that are going to need therapy.`)
   
   //SET BACK TO 0
   noun1 = ""
