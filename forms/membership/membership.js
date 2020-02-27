@@ -1,4 +1,4 @@
-/*
+
 
 let name = []
 let memberName = ""
@@ -55,5 +55,3 @@ submitnames.onclick=function(){
     inptFirstName.value = ""
     }
 }
-
-*/
