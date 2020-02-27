@@ -10,6 +10,18 @@ Attach one event to each control, and write an event handler  for each -
 you can just output a message using a simple popup like NSB.MsgBox() if you like.
 */
 
+Dropdown1.onclick=function(){
+  NSB.MsgBox("Sorry, I dont know exactly what to do for the dropdown, but it looks pretty great doesnt it??")
+}
 
+mycard.onclick=function(){
+  NSB.MsgBox("I am working on the scone recipe, I have made a few tester batches. \n PS I had a photo, but it only shows up on my remote application.")
+}
 
+Hamburger1.onclick=function(){
+  NSB.MsgBox("This is called a hamburger, but I don't like burgers. Are you hungry too? Gosh.. YUM YUM")
+}
 
+wherestudybuttons.onclick=function(){
+  NSB.MsgBox("This where you normally study?? WOW!!")
+}
